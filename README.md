@@ -1,2 +1,2 @@
-# hml-project
+# html-project
 Html Project
